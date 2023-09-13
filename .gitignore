@@ -1,6 +1,7 @@
 *
-!*.cpp
 !.gitignore
 !scripts
 !scripts/*.sh
 !*.md
+!src
+!src/*.cpp
