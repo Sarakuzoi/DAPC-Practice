@@ -34,7 +34,7 @@ bool valid_parantheses(stack<char> myStack, char s[]) {
       break;
     }
   }
-
+  if (myStack.empty()) return false;
   return true;
 }
 
